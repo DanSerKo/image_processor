@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/image_processor.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/image_processor.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/image_processor.cpp",
+  "output": "CMakeFiles/image_processor.dir/image_processor.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/interface.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/interface.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/interface.cpp",
+  "output": "CMakeFiles/image_processor.dir/interface.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/bmp_utilities/bmp_reader.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/bmp_utilities/bmp_reader.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/bmp_utilities/bmp_reader.cpp",
+  "output": "CMakeFiles/image_processor.dir/bmp_utilities/bmp_reader.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/bmp_utilities/bmp_writer.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/bmp_utilities/bmp_writer.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/bmp_utilities/bmp_writer.cpp",
+  "output": "CMakeFiles/image_processor.dir/bmp_utilities/bmp_writer.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/bmp_utilities/picture.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/bmp_utilities/picture.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/bmp_utilities/picture.cpp",
+  "output": "CMakeFiles/image_processor.dir/bmp_utilities/picture.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/filter.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/filter.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/filter.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/crop.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/crop.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/crop.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/crop.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/edge_detection.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/edge_detection.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/edge_detection.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/edge_detection.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/grayscale.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/grayscale.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/grayscale.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/grayscale.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/negative.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/negative.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/negative.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/negative.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/sharpening.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/sharpening.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/sharpening.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/sharpening.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/fisheye.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/fisheye.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/fisheye.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/fisheye.cpp.o"
+},
+{
+  "directory": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/build",
+  "command": "/usr/bin/g++   -g -fsanitize=address -fsanitize=undefined -o CMakeFiles/image_processor.dir/filters/blur.cpp.o -c /home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/blur.cpp",
+  "file": "/home/dan/proga/pmi-235-1-Dan-Serebrennikov-Dsn/tasks/image_processor/filters/blur.cpp",
+  "output": "CMakeFiles/image_processor.dir/filters/blur.cpp.o"
+}
+]
